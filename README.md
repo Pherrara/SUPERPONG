@@ -7,3 +7,7 @@ There's another dimension of gameplay added by the possibility of horizontal mov
 
 ![alt text](screenshot.png "Title")
 
+Commands:
+
+	First player = W(UP), A(LEFT), S(DOWN), D(RIGHT)
+	Second player = UP_ARROW(UP), LEFT_ARROW(LEFT), DOWN_ARROW(DOWN), RIGHT_ARROW(RIGHT)
